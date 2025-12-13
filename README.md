@@ -9,5 +9,14 @@ Codes for generating training and validation data. The generated dataset can be 
 ### NT2-phase1_and_unfreezeAll.py
 Script for phase 1 experiments (frozen model backbone) and full fine-tuning using Nucleotide Transformer 2.
 
+### NT2-phase2_and_phase3.py
+Script for phase 2 (LoRA fine-tuning) and phase 3 (learning rate) experiments using Nucleotide Transformer 2.
+
+### NT1-phase1.py
+Script for phase 1 experiments using Nucleotide Transformer 1.
+
 ### caduceus_phase1.py
 Script for phase 1 experiments for Caduceus.
+
+### figures.ipynb
+Jupyter notebook for generating figures and visualizations from experimental results.
